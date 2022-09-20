@@ -13,17 +13,17 @@ Codificación: Se escribe el codigo fuente de cada componente
  ### 3.Explica brevemente en qué consiste el modelo en cascada cuando hablamos de desarrollo de software.
  Es un modelo de desarollo de software que consiste en realizar las fases principales en el siguiente orden:
  Analisis - Diseño - Codificación - Pruebas - Mantenimiento
-https://camo.githubusercontent.com/20d8e04cb8bfa4915d186ee1f364ba70b1911b40fd8b593dd3be81ca9a686955/687474703a2f2f6a616d6a323030302e6769746875622e696f2f656e746f726e6f736465736172726f6c6c6f2f312f6173736574732f636173636164612e706e67
+
 
  ### 4.Ventajas e inconvenientes del modelo en cascada.
  #### Desventajas:
- Se adapta mal al cambio continuo de especificaciones
- Al ir en orden, si las fases anteriores estan mal se puede complicar la fase de ejecución
+ Se adapta mal al cambio continuo de especificaciones.
+ Al ir en orden, si las fases anteriores estan mal se puede complicar la fase de ejecución.
  
  #### Ventajas:
- Es un modelo facil de implementar
- La cantidad de recursos para utilizar este modelo es minimo
- Existen diferentes variantes con mayor o menor cantidad de actividades
+ Es un modelo facil de implementar.
+ La cantidad de recursos para utilizar este modelo es minimo.
+ Existen diferentes variantes con mayor o menor cantidad de actividades.
 
  ### 5.¿Qué se entiende por verificación? ¿Y por validación?
 
