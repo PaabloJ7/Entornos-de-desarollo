@@ -17,13 +17,13 @@ Codificación: Se escribe el codigo fuente de cada componente
 
  ### 4.Ventajas e inconvenientes del modelo en cascada.
  #### Desventajas:
- Se adapta mal al cambio continuo de especificaciones.
- Al ir en orden, si las fases anteriores estan mal se puede complicar la fase de ejecución.
+ - Se adapta mal al cambio continuo de especificaciones.
+ - Al ir en orden, si las fases anteriores estan mal se puede complicar la fase de ejecución.
  
  #### Ventajas:
- Es un modelo facil de implementar.
- La cantidad de recursos para utilizar este modelo es minimo.
- Existen diferentes variantes con mayor o menor cantidad de actividades.
+ - Es un modelo facil de implementar.
+ - La cantidad de recursos para utilizar este modelo es minimo.
+ - Existen diferentes variantes con mayor o menor cantidad de actividades.
 
  ### 5.¿Qué se entiende por verificación? ¿Y por validación?
 
