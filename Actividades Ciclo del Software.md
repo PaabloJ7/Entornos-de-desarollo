@@ -1,7 +1,7 @@
- # 1.Define "Ciclo de vida del software".
+ ## 1.Define "Ciclo de vida del software".
 Se puede definir el ciclo de vida del software como las fases que se siguen para la desarollación de un Software
 
- # 2.Nombra las fases principales del desarrollo de software y explica brevemente que se hace en cada una de ellas.
+ ### 2.Nombra las fases principales del desarrollo de software y explica brevemente que se hace en cada una de ellas.
 Las fases principales son:
 Analisis: Se determinan las necesidades del cliente y los requisitos necesarios para el software
 Diseño: 
