@@ -31,8 +31,8 @@ Las fases principales son:
  ### 6.Explica como funciona el modelo de desarrollo mediante creación de prototipos.
  
  
- ### 1.KANBAN. Haz un resumen de la metodología Kanban e indica sus diferencias frente a SCRUM. Puedes consultar el siguiente enlace:
- Kanban utiliza un sistema de tarjetas en un tablero para organizar las tareas en "To do" "Doing" "Done",así todos pueden ver el estado en que esta dicha    tarea y saber por donde debe empezar, ademas se controla por demanda. Las diferencias con Scrum son estas:
-  -En kanban no existen roles
-   -
+ ### 1.KANBAN. Haz un resumen de la metodología Kanban e indica sus diferencias frente a SCRUM. Puedes consultar el siguiente enlace.
+  Kanban utiliza un sistema de tarjetas en un tablero para organizar las tareas en "To do" "Doing" "Done",así todos pueden ver el estado en que esta dicha   tarea y saber por donde debe empezar, ademas se controla por demanda. Las diferencias con Scrum son estas:
+  En kanban no existen roles
+  
 
