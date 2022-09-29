@@ -39,7 +39,7 @@ Las fases principales son:
   - En Scrum se trabaja con iteraciones de tiempo fijo, con unos ciclos fijos que se denominan Sprints
   - En Scrum los tableros se van a resetear al final de cada Sprint, es decir, conforme vamos finalizando el mismo, el tablero queda vacío y comenzamos de
 nuevo añadir nueva nuevas historias de usuario, las siguientes en prioridad
-  -En Scrum se mide todo lo que sea necesario, se miden historias, es decir, se mide cuánto tiempo o esfuerzo nos va a llevar realizar cada una de las     tareas y se mide también la velocidad del equipo, en Kanban no hace falta.
-  -En Scrum el conjunto de tareas que tenemos que realizar durante el Sprint, tiene que tener al menos el tamaño de un Sprint. En Kanban, al tener un ritmo de trabajo continuo, lo que se hace es ir arrastrando las nuevas tareas por el panel hasta que lleguen a su estado final y finalicen.
+  - En Scrum se mide todo lo que sea necesario, se miden historias, es decir, se mide cuánto tiempo o esfuerzo nos va a llevar realizar cada una de las     tareas y se mide también la velocidad del equipo, en Kanban no hace falta.
+  - En Scrum el conjunto de tareas que tenemos que realizar durante el Sprint, tiene que tener al menos el tamaño de un Sprint. En Kanban, al tener un ritmo de trabajo continuo, lo que se hace es ir arrastrando las nuevas tareas por el panel hasta que lleguen a su estado final y finalicen.
   
 
