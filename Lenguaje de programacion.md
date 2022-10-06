@@ -7,8 +7,8 @@ Los lenguajes de programación suelen tener 2 formas:
 
 
  ### 2.Explica qué es compilar? ¿Explica qué es interpretar?
- Un intérprete es un programa informático que procesa el código fuente de un proyecto de software durante su tiempo de ejecución.
- Un compilador es un programa informático que traduce todo el código fuente de un proyecto de software a código máquina antes de ejecutarlo. 
+- Un intérprete es un programa informático que procesa el código fuente de un proyecto de software durante su tiempo de ejecución.
+- Un compilador es un programa informático que traduce todo el código fuente de un proyecto de software a código máquina antes de ejecutarlo. 
 
 
  ### 3.entajas de los lenguajes compilados.
