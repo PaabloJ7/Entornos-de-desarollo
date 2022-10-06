@@ -31,7 +31,15 @@ Las fases principales son:
  
 
  ### 6.Explica como funciona el modelo de desarrollo mediante creación de prototipos.
- 
+Un modelo prototipo o modelo de desarrollo evolutivo es utilizado principalmente en el desarrollo de software para ofrecer al usuario una visión previa de cómo será el programa o sistema. Se le dice de desarrollo evolutivo al modelo de prototipo porque evoluciona hasta convertirse en el producto final.
+En un modelo de prototipos las características fundamentales son:
+
+ - Tiempo. El prototipo se desarrolla en menos tiempo para poder ser probado o testeado.
+ - Coste. La inversión en un modelo de prototipo es ajustada, lo que requiere un uso óptimo de los recursos.
+ - Conciso. El prototipo debe incluir los requisitos y características básicas de la aplicación para poder evaluar su funcionamiento y utilidad.
+ - Evolutivo. El prototipo evoluciona gracias a la interacción con los usuarios.
+ - Funcional. El prototipo es una aplicación que funciona.
+
  
  ### 1.KANBAN. Haz un resumen de la metodología Kanban e indica sus diferencias frente a SCRUM. Puedes consultar el siguiente enlace.
   Kanban utiliza un sistema de tarjetas en un tablero para organizar las tareas en "To do" "Doing" "Done",así todos pueden ver el estado en que esta dicha   tarea y saber por donde debe empezar, ademas se controla por demanda. Las diferencias con Scrum son estas:
