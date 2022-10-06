@@ -31,7 +31,8 @@ Las fases principales son:
 
 
  ### 5.¿Qué se entiende por verificación? ¿Y por validación?
- 
+  - La verificación es comprobar que el software cumple los requisitos funcionales y no funcionales de su especificación
+  - La validación es comprobar que el software cumple las caracteristicas del software
 
  ### 6.Explica como funciona el modelo de desarrollo mediante creación de prototipos.
 Un modelo prototipo o modelo de desarrollo evolutivo es utilizado principalmente en el desarrollo de software para ofrecer al usuario una visión previa de cómo será el programa o sistema. Se le dice de desarrollo evolutivo al modelo de prototipo porque evoluciona hasta convertirse en el producto final.
