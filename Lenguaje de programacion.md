@@ -30,19 +30,19 @@ Los lenguajes de programación suelen tener 2 formas:
 
  ### 7 Pon un ejemplo de lenguaje de los siguientes tipos:
 
-    Bajo nivel: Java
-    Nivel medio.
-    Alto nivel.
+    Bajo nivel: Arquitectura CISC
+    Nivel medio: C Basic
+    Alto nivel: C++
 
  ### 8 ¿Qué paradigma de programación siguen los siguientes lenguajes?
 
-    C
-    C++
-    SQL
-    Java
-    Javascript
-    Lisp
-    Prolog
+    C Imperativo
+    C++ Imperativo
+    SQL Multiparadigma
+    Java Orientado a objetos, imperativo
+    Javascript Multiparadigma
+    Lisp Declarativo
+    Prolog Logico
 
 
  ### 9 Explica qué criterios pueden seguirse a la hora de elegir un lenguaje de programación para el desarrollo software.
