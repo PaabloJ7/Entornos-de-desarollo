@@ -5,10 +5,13 @@ Se puede definir el ciclo de vida del software como las fases que se siguen para
  ### 2.Nombra las fases principales del desarrollo de software y explica brevemente que se hace en cada una de ellas.
 Las fases principales son:
 - Analisis: Se determinan las necesidades del cliente y los requisitos necesarios para el software
-- Diseño: 
+- Diseño: En esta fase se estudian posibles opciones de implementación para el software que hay que construir, así como decidir la estructura general del mismo
 - Codificación: Se escribe el codigo fuente de cada componente
-- Pruebas
-- Mantenimiento
+- Pruebas: Como errar es humano, la fase de pruebas del ciclo de vida del software busca detectar los fallos cometidos en las etapas anteriores para corregirlos. Por supuesto, lo ideal es hacerlo antes de que el usuario final se los encuentre. 
+- Mantenimiento: Esta es una de las fases más importantes del ciclo de vida de desarrollo del software. Puesto que el software ni se rompe ni se desgasta con el uso, su mantenimiento incluye tres puntos diferenciados:
+   - Eliminar los defectos detectados durante su vida útil (mantenimiento correctivo).
+   - Adaptarlo a nuevas necesidades (mantenimiento adaptativo).
+   - Añadirle nuevas funcionalidades (mantenimiento perfectivo).
 
 
  ### 3.Explica brevemente en qué consiste el modelo en cascada cuando hablamos de desarrollo de software.
