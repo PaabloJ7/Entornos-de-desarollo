@@ -42,19 +42,26 @@ nuevo añadir nueva nuevas historias de usuario, las siguientes en prioridad
   - En Scrum se mide todo lo que sea necesario, se miden historias, es decir, se mide cuánto tiempo o esfuerzo nos va a llevar realizar cada una de las     tareas y se mide también la velocidad del equipo, en Kanban no hace falta.
   - En Scrum el conjunto de tareas que tenemos que realizar durante el Sprint, tiene que tener al menos el tamaño de un Sprint. En Kanban, al tener un ritmo de trabajo continuo, lo que se hace es ir arrastrando las nuevas tareas por el panel hasta que lleguen a su estado final y finalicen.
 
+
  ### 2 SCRUM. Explica como funciona Scrum.
+  - Planificación: El Product Backlog es la fase en la que se establecen las tareas prioritarias y donde se obtiene información breve y detallada sobre el proyecto que se va  a desarrollar.
+  - Ejecución: Sprint: Dentro del método Scrum, el Sprint es el corazón, un intervalo de tiempo que como máximo tiene una duración de un mes y en donde se produce el desarrollo de un producto que es entregable potencialmente.
+  -Control: El Burn Down es la fase en la que se mide el progreso de un determinado proyecto Scrum. En ella, el Scrum Master será el encargado de actualizar los gráficos cuando se finalice cada uno de los Sprint.
+
+
  ### 3.SCRUM. Define los siguientes términos:
   - Product backlog: (o pila de producto) es un listado de todas las tareas que se pretenden hacer durante el desarrollo de un proyecto.
  
   - Sprint Backlog: es la suma de el Objetivo del Sprint, los elementos del Product Backlog elegidos para el Sprint, más un plan de acción de cómo crear el     Incremento de Producto.
-  - 
+  
+  
   ### 4. SCRUM. En la terminología Scrum qué terminos se utilizan como sinónimo de:
  - Jefe de proyecto: Scrum Master
  - Cliente: Product Owner
  - Equipo de desarrollo: Scrum Team
- - 
+
+
   ### 5.SCRUM. Haz un resumen de los requisitos para poder utilizar Scrum.
-  
   - Cultura de empresa basada en trabajo en equipo, delegación, creatividad y mejora continua.
   - Compromiso del cliente en la dirección de los resultados del proyecto, gestión del ROI y disponibilidad para poder colaborar.
   - Compromiso de la Dirección de la organización para resolver problemas endémicos y realizar cambios organizativos, formando equipos autogestionados y   multidisciplinares y fomentando una cultura de gestión basada en la colaboración y en la facilitación llevada a cabo por líderes al servicio del equipo.
@@ -67,3 +74,15 @@ nuevo añadir nueva nuevas historias de usuario, las siguientes en prioridad
   -  Estabilidad de los miembros del equipo
 
 
+ ### 6.XP. Explica los 5 valores de la Programación Extrema.
+  - Comunicación: Con objetivo de romper las clásicas barreras entre negocio y desarrollo, XP promueve que los requisitos sean comunicados y trabajados con el equipo de desarrollo mano a mano y no a través de documentación
+  - Simplicidad: La línea de XP respecto a la complejidad de las soluciones es tajante: empezar con la solución más simple. ¿Se podría realizar alguna funcionalidad extra fuera de lo mínimo que da valor? Pues se realizará más tarde
+  - Feedback: De nuevo, comunicación, y no solo con el cliente, sino en todas direcciones. Feedback es un valor constante en XP y gran parte de sus prácticas van en esta dirección.
+  - Coraje / Valentia: eXtreme Programming se considera una disciplina: un conjunto de prácticas que se compensan entre ellas bajo el mismo paraguas. Y para ser realmente "extreme" debes cumplirla todas,
+  - Respeto: Además, XP promueve algo tan básico como el respeto
+
+
+ ### 7. XP. ¿Cuáles son las características distintivas de XP frente a otras metodologías ágiles? Explícalas.
+En otras metodologías se recoge las buenas prácticas de un marco de trabajo específico. En ella, hay unos roles de equipo definidos y unas iteraciones que se van repitiendo cada semana o 3-5 semanas.
+La metodología XP se centra en la comunicación con todos los involucrados en el proyectos, así como la reutilización del código ya desarrollado y la realimentación.
+ 
