@@ -30,9 +30,9 @@ Los lenguajes de programación suelen tener 2 formas:
 
  ### 7 Pon un ejemplo de lenguaje de los siguientes tipos:
 
-    Bajo nivel: Arquitectura CISC
-    Nivel medio: C Basic
-    Alto nivel: C++
+ - Bajo nivel: Arquitectura CISC
+ - Nivel medio: C Basic
+ - Alto nivel: C++
 
  ### 8 ¿Qué paradigma de programación siguen los siguientes lenguajes?
 
