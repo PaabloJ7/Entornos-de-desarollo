@@ -47,5 +47,23 @@ nuevo añadir nueva nuevas historias de usuario, las siguientes en prioridad
   - Product backlog: (o pila de producto) es un listado de todas las tareas que se pretenden hacer durante el desarrollo de un proyecto.
  
   - Sprint Backlog: es la suma de el Objetivo del Sprint, los elementos del Product Backlog elegidos para el Sprint, más un plan de acción de cómo crear el     Incremento de Producto.
+  - 
+  ### 4. SCRUM. En la terminología Scrum qué terminos se utilizan como sinónimo de:
+ - Jefe de proyecto: Scrum Master
+ - Cliente: Product Owner
+ - Equipo de desarrollo: Scrum Team
+ - 
+  ### 5.SCRUM. Haz un resumen de los requisitos para poder utilizar Scrum.
   
+  - Cultura de empresa basada en trabajo en equipo, delegación, creatividad y mejora continua.
+  - Compromiso del cliente en la dirección de los resultados del proyecto, gestión del ROI y disponibilidad para poder colaborar.
+  - Compromiso de la Dirección de la organización para resolver problemas endémicos y realizar cambios organizativos, formando equipos autogestionados y   multidisciplinares y fomentando una cultura de gestión basada en la colaboración y en la facilitación llevada a cabo por líderes al servicio del equipo.
+  -  Compromiso conjunto y colaboración de los miembros del equipo.
+  -  Relación entre proveedor y cliente basada en ganar-ganar, colaboración y transparencia.
+  -  Facilidad para realizar cambios en el proyecto.
+  -  Tamaño de cada equipo entre 5 y 9 personas (con técnicas específicas de planificación y coordinación cuando varios equipos trabajan en el mismo proyecto).
+  -  Equipo trabajando en un mismo espacio común para maximizar la comunicación.
+  -  Dedicación del equipo a tiempo completo.
+  -  Estabilidad de los miembros del equipo
+
 
