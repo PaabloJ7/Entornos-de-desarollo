@@ -44,9 +44,8 @@ nuevo añadir nueva nuevas historias de usuario, las siguientes en prioridad
 
  ### 2 SCRUM. Explica como funciona Scrum.
  ### 3.SCRUM. Define los siguientes términos:
-  -Product Backlog
-  El product backlog (o pila de producto) es un listado de todas las tareas que se pretenden hacer durante el desarrollo de un proyecto.
-  -Sprint backlog.
-  El Sprint Backlog es la suma de el Objetivo del Sprint, los elementos del Product Backlog elegidos para el Sprint, más un plan de acción de cómo crear el   Incremento de Producto.
+  - Product backlog: (o pila de producto) es un listado de todas las tareas que se pretenden hacer durante el desarrollo de un proyecto.
+ 
+  - Sprint Backlog: es la suma de el Objetivo del Sprint, los elementos del Product Backlog elegidos para el Sprint, más un plan de acción de cómo crear el     Incremento de Producto.
   
 
