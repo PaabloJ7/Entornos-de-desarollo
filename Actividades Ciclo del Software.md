@@ -41,5 +41,12 @@ Las fases principales son:
 nuevo añadir nueva nuevas historias de usuario, las siguientes en prioridad
   - En Scrum se mide todo lo que sea necesario, se miden historias, es decir, se mide cuánto tiempo o esfuerzo nos va a llevar realizar cada una de las     tareas y se mide también la velocidad del equipo, en Kanban no hace falta.
   - En Scrum el conjunto de tareas que tenemos que realizar durante el Sprint, tiene que tener al menos el tamaño de un Sprint. En Kanban, al tener un ritmo de trabajo continuo, lo que se hace es ir arrastrando las nuevas tareas por el panel hasta que lleguen a su estado final y finalicen.
+
+ ### 2 SCRUM. Explica como funciona Scrum.
+ ### 3.SCRUM. Define los siguientes términos:
+  -Product Backlog
+  El product backlog (o pila de producto) es un listado de todas las tareas que se pretenden hacer durante el desarrollo de un proyecto.
+  -Sprint backlog.
+  El Sprint Backlog es la suma de el Objetivo del Sprint, los elementos del Product Backlog elegidos para el Sprint, más un plan de acción de cómo crear el   Incremento de Producto.
   
 
