@@ -36,13 +36,13 @@ Los lenguajes de programación suelen tener 2 formas:
 
  ### 8 ¿Qué paradigma de programación siguen los siguientes lenguajes?
 
-  C = Imperativo
-  C++ = Imperativo
-  SQL = Multiparadigma
-  Java = Orientado a objetos, imperativo
-  Javascript = Multiparadigma
-  Lisp = Declarativo
-  Prolog = Logico
+ - C = Imperativo
+ - C++ = Imperativo
+ - SQL = Multiparadigma
+ - Java = Orientado a objetos, imperativo
+ - Javascript = Multiparadigma
+ - Lisp = Declarativo
+ - Prolog = Logico
 
 
  ### 9 Explica qué criterios pueden seguirse a la hora de elegir un lenguaje de programación para el desarrollo software.
