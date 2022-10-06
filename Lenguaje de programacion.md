@@ -2,7 +2,7 @@
  ### 1.¿Qué diferencia existe entre los lenguajes declarativos y los imperativos?. Nombra al menos 2 de cada tipo.
 Los lenguajes de programación suelen tener 2 formas:
 
-  - MPERATIVO: es decir, como una secuencia de operaciones a realizar.
+  - IMPERATIVO: es decir, como una secuencia de operaciones a realizar.
   - DECLARATIVO: es decir, se especifica el resultado deseado, no cómo lograrlo.
 
 
