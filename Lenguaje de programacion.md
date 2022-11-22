@@ -11,7 +11,7 @@ Los lenguajes de programación suelen tener 2 formas:
 - Un compilador es un programa informático que traduce todo el código fuente de un proyecto de software a código máquina antes de ejecutarlo. 
 
 
- ### 3.entajas de los lenguajes compilados.
+ ### 3.Ventajas de los lenguajes compilados.
  - Suelen ser más rápidos y más eficientes al ejecutarse en comparación con los lenguajes interpretados. 
  - También le dan al desarrollador más control sobre aspectos del hardware, como la gestión de memoria y el uso del CPU.
 
