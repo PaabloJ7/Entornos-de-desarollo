@@ -28,6 +28,7 @@ En Visual Studio code contiene ya un paquete de iconos, pero puedes descargar ot
 
 - Atajos de teclas para comentar
 Para comentar bloques de codigo en Sublime Text tienes que usar el atajo "Control + 7", sin embargo, esto solo funciona con un teclado inglés, para hacerlo funcionar en otros formatos debes de bindear un tecla usando este codio:
+
 ``` 
 [
    { "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } },
