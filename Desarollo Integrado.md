@@ -5,3 +5,5 @@
 ![image-20221020084509606](/home/Pablojesus/.config/Typora/typora-user-images/image-20221020084509606.png)
 
  ### 2. Personaliza Sublime text instalando los complementos más importantes. 
+
+![extensiones.png] (/home/Pablojesus/Escritorio/Github entorno/Entornos/img/extensiones.png
