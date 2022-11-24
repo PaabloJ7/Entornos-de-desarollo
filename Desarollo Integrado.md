@@ -7,3 +7,5 @@
  ### 2. Personaliza Sublime text instalando los complementos más importantes. 
 
 ![](/home/Pablojesus/Escritorio/Github entorno/Entornos/img/extensiones.png)
+
+ ### 3. per
