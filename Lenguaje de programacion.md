@@ -46,10 +46,10 @@ Los lenguajes de programación suelen tener 2 formas:
 
 
  ### 9 Explica qué criterios pueden seguirse a la hora de elegir un lenguaje de programación para el desarrollo software.
- 1. Tipo de aplicación
- 2. Plataforma dirigida
- 3. Mantenibilidad
- 4. Escalabilidad y rendimiento
- 5. Seguridad
- 6. Apoyo comunitario
- 7. Límite de tiempo de desarrollo
+ 1. Tipo de aplicación.
+ 2. Plataforma dirigida.
+ 3. Mantenibilidad.
+ 4. Escalabilidad y rendimiento.
+ 5. Seguridad.
+ 6. Apoyo comunitario.
+ 7. Límite de tiempo de desarrollo.
