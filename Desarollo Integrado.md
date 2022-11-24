@@ -2,7 +2,7 @@
 
  ### 1. Instala el editor sublime text. Saca una captura de pantalla una vez instalado.
 
-![image-20221124094453118](/home/Pablojesus/Escritorio/Entornos/img/image-20221124094453118.png)
+![image-20221124094453118](img/image-20221020084509606.png)
 
  ### 2. Personaliza Sublime text instalando los complementos más importantes. 
 
