@@ -11,3 +11,7 @@
  ### 3. ¿Para que sirve el complemento **Emmet**? Haz uso de él al escribir un archivo html de prueba.
 
 ![image-20221124094647400](img/image-20221124094647400.png)
+
+### 4. ¿Instala el editor Visual Studio Code. Saca una captura de pantalla una vez instalado y funcionando.
+
+![image-20221124095413781](img/image-20221124095413781.png) 
