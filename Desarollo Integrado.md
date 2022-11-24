@@ -6,7 +6,7 @@
 
  ### 2. Personaliza Sublime text instalando los complementos más importantes. 
 
-![](/home/Pablojesus/Escritorio/Github entorno/Entornos/img/extensiones.png)
+![README.md](/home/Pablojesus/Escritorio/Github entorno/Entornos/img/README.md)
 
  ### 3. ¿Para que sirve el complemento **Emmet**? Haz uso de él al escribir un archivo html de prueba.
 
