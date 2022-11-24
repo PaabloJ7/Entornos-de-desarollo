@@ -5,3 +5,5 @@ Los sistemas de control de versiones mas conocidos son: CVS, Subversion, Mercuri
 - Working Directory
 - Staging Area 
 - Repository (local o remoto)
+
+ ### 3. quee?
