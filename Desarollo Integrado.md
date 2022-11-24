@@ -8,4 +8,6 @@
 
 ![](/home/Pablojesus/Escritorio/Github entorno/Entornos/img/extensiones.png)
 
- ### 3. per
+ ### 3. ¿Para que sirve el complemento **Emmet**? Haz uso de él al escribir un archivo html de prueba.
+
+![image-20221124091539289](/home/Pablojesus/.config/Typora/typora-user-images/image-20221124091539289.png)
