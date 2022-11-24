@@ -19,11 +19,14 @@
 ### 5. Haz una comparativa de la funcionalidad ofrecida por Sublime text y la ofrecida por Visual Studio Code referente a los siguientes aspectos:
 
 - Terminal Integrado:
+En sublime text, a diferencia de Visual Studio Code, no contiene un terminal integrado, tienes que instlar una extension para usarla
 
 - Emmet Incorporado
 
 - Iconos para los tipos de archivos
+En Visual Studio code contiene ya un paquete de iconos, pero puedes descargar otros muchos mas con extensiones
 
 - Atajos de teclas para comentar
+
 
 - Atajo de teclas para buscar y seleccionar
