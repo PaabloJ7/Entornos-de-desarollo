@@ -51,6 +51,6 @@
 En las versiones mas recientes de netbeans se puede implementar gradle de forma nativa y oficial, por lo que no hace falta ningun plugin.
 
 ### 14. Crea un proyecto nuevo de tipo Single Gradle Project y nombre empleado, que contenga la clase principal Empleado.
-![image-20230523224759682](C:\Users\Pablo\Desktop\image-20230523224759682.png)![image-20230523224845444](C:\Users\Pablo\Desktop\img\image-20230523224845444.png)
-
+![Screenshot](img/image-20230523224759682.png)
+![Screenshot](img/image-20230523224845444.png)
 ![Screenshot](img/image-20230523225220667.png)
